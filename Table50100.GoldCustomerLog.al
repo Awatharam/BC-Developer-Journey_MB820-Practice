@@ -17,11 +17,11 @@ table 50100 "Gold Customer Log"
         }
         field(2; "Customer No."; Code[20])
         {
-            Caption = 'Customer No.';
+            CaptionML = ENU = 'Customer No.', ESP = 'Nº de Cliente';
         }
         field(3; "Customer Name"; Text[100])
         {
-            Caption = 'Customer Name';
+            CaptionML = ENU = 'Customer Name', ESP = 'Nombre del Cliente';
         }
         field(4; "Posting Date"; Date)
         {
