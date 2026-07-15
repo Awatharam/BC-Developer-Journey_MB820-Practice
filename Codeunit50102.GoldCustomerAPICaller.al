@@ -51,7 +51,6 @@ codeunit 50102 "Gold Customer API Caller"
         GoldCustomerLog."Customer No." := '';
         GoldCustomerLog."Customer Name" := StrSubstNo('API Sync — %1 Gold Customers retrieved', GoldCustomerCount);
         GoldCustomerLog."Posting Date" := Today();
-        GoldCustomerLog."Sales Order No." := '';
         GoldCustomerLog.Insert(true);
 
         exit(GoldCustomerCount);

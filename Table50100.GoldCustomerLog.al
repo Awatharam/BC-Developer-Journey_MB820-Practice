@@ -30,7 +30,7 @@ table 50100 "Gold Customer Log"
         field(5; "Sales Order No."; Code[20])
         {
             Caption = 'Sales Order No.';
-            ObsoleteState = Pending;
+            ObsoleteState = Removed;
             ObsoleteReason = 'Not in use, being retired for MB-820 practice';
             ObsoleteTag = '1.0.0.0';
         }

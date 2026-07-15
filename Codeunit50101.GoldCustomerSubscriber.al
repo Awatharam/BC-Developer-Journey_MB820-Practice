@@ -25,12 +25,8 @@ codeunit 50101 "Gold Customer Subscriber"
         GoldCustomerLog."Customer No." := SalesHeader."Sell-to Customer No.";
         GoldCustomerLog."Customer Name" := SalesHeader."Sell-to Customer Name";
         GoldCustomerLog."Posting Date" := SalesHeader."Posting Date";
-        GoldCustomerLog."Sales Order No." := SalesHeader."No.";
         GoldCustomerLog.Insert(true);
     end;
 
-    [Obsolete('Not in use, replaced by nothing - practice only', '1.0.0.0')]
-    procedure DummyClone()
-    begin
-    end;
+
 }

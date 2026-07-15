@@ -32,10 +32,6 @@ page 50101 "Gold Customer Log List"
                 {
                     ApplicationArea = All;
                 }
-                field("Sales Order No."; Rec."Sales Order No.")
-                {
-                    ApplicationArea = All;
-                }
             }
         }
     }
