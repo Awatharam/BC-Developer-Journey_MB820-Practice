@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="MB820Practice">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2927080988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold Customer Log</source>
+		  <target>Registro de Clientes Oro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Gold Customer Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2927080988 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+		  <target>Nº de Entrada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Gold Customer Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2927080988 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+		  <target>Fecha de Contabilización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Gold Customer Log - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848616120 - Control 2155321428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer API - Control balanceLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848616120 - Control 3007705154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Limit (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer API - Control creditLimitLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848616120 - Control 3020568349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer API - Control customerPostingGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848616120 - Control 3558812865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer API - Control name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1848616120 - Control 2757394829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer API - Control number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264600366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold Customer Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gold Customer Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 617159622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold Customer Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Gold Customer Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 617159622 - Control 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Gold Customer Report - Control Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 617159622 - Control 672590008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter customers with balance above this amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Gold Customer Report - Control MinBalance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 617159622 - Control 672590008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Balance (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Gold Customer Report - Control MinBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 617159622 - ReportLayout 3548004808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold Customer Report (Word)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Gold Customer Report - ReportLayout WordLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496902179 - Control 3262300258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Priority</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt - Control Customer Priority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4264600366 - Action 2938289955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4264600366">
+          <source>Calls the BC270API Gold Customer API endpoint and logs the result.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Gold Customer Log List Ext - Action SyncFromApi - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4264600366 - Action 2938289955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4264600366">
+          <source>Sync from API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Gold Customer Log List Ext - Action SyncFromApi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 820951866 - Action 1342530800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>BC Developer Journey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RoleCenter Ext - Action GoldCustomerJourney - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 820951866 - Action 227033602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Customers (Gold Priority)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RoleCenter Ext - Action CustomerListGold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 820951866 - Action 2138024342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Gold Customer Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RoleCenter Ext - Action GoldCustomerLogList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 820951866 - Action 2030994454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Gold Customer Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RoleCenter Ext - Action GoldCustomerReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1713901351 - Field 3262300258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Priority</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt - Field Customer Priority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262300258 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Priority - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262300258 - EnumValue 3116416530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Priority - EnumValue High - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262300258 - EnumValue 3592530208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Priority - EnumValue Low - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262300258 - EnumValue 432767615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Medium</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Customer Priority - EnumValue Medium - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
