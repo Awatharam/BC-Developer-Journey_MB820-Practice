@@ -8,7 +8,7 @@ page 50101 "Gold Customer Log List"
     UsageCategory = Lists;
     SourceTable = "Gold Customer Log";
     Caption = 'Gold Customer Log';
-    Editable = false;
+    Editable = true;
 
     layout
     {

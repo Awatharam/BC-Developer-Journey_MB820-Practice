@@ -26,6 +26,18 @@ pageextension 50103 "Order Processor RoleCenter Ext" extends "Order Processor Ro
                     Caption = 'Customers (Gold Priority)';
                     RunObject = page "Customer List";
                 }
+                action(CustomerLogSummary)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Customer Log Summary';
+                    RunObject = query "Customer Log Summary";
+                }
+                action(CustomerLogSummaryReport)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Customer Log Summary Report';
+                    RunObject = report "Customer Log Summary Report";
+                }
             }
         }
     }
