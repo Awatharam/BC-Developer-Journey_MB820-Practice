@@ -21,4 +21,25 @@ page 50110 "Gold Customers Only"
             }
         }
     }
+
+    actions
+    {
+        area(Processing)
+        {
+            action(ShowVersionInfo)
+            {
+                ApplicationArea = All;
+                Caption = 'Show Version Info';
+                Image = Info;
+                ToolTip = 'Displays the current AppVersion and DataVersion for this extension.';
+
+                trigger OnAction()
+                var
+                    UpgradeCodeunit: Codeunit "MK Upgrade Data Migration";
+                begin
+                    UpgradeCodeunit.ShowVersionInfo();
+                end;
+            }
+        }
+    }
 }
