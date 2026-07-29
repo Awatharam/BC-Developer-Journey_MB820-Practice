@@ -7,7 +7,8 @@ report 50110 "Gold Customer Report"
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     Caption = 'Gold Customer Report';
-    DefaultRenderingLayout = WordLayout;
+    //DefaultRenderingLayout = WordLayout;
+    DefaultRenderingLayout = ExcelLayout;
 
     dataset
     {
@@ -75,6 +76,12 @@ report 50110 "Gold Customer Report"
             Type = Word;
             LayoutFile = 'GoldCustomerReport.docx';
             Caption = 'Gold Customer Report (Word)';
+        }
+        layout(ExcelLayout)
+        {
+            Type = Excel;
+            LayoutFile = 'GoldCustomerReport.xlsx';
+            Caption = 'Gold Customer Report (Excel)';
         }
     }
 

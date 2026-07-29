@@ -9,6 +9,7 @@ tableextension 50100 CustomerExt extends Customer
         {
             Caption = 'Customer Priority';
             DataClassification = CustomerContent;
+            Description = 'Internal dev note: drives Gold Customer Log (Table 50100) filtering and Report 50110. Not visible to end users at runtime.';
         }
     }
 }
